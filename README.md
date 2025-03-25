@@ -1,3 +1,4 @@
 # demo
-This is my demo repo
+This is my demo repo.
+<br>
 Author - Amolpreet Kaur
